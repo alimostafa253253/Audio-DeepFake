@@ -6,8 +6,6 @@ This project is a deep learning-based system for detecting audio deepfakes using
 
 A simple Gradio interface allows users to upload audio files and instantly get a prediction.
 
-👉 **Try the demo:** [Gradio App Link] *(replace with your app link)*
-
 ---
 
 ## 🧠 Model Overview
@@ -49,13 +47,6 @@ These features are stacked and fed into the model for time-series analysis.
 3. The model predicts whether the input is **Real** or **Fake**
 
 ---
-
-## 🖥️ Run Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/audio-deepfake-detector.git
-cd audio-deepfake-detector
 
 # Install dependencies
 pip install -r requirements.txt
